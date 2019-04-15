@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect Designer 9.7.0-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_FsRK8V8xEemSiotKBJqu5w" name="Blank Rose Package">
+  <eAnnotations xmi:id="_FsRK8l8xEemSiotKBJqu5w" source="uml2.diagrams" references="_FsRK818xEemSiotKBJqu5w">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_FsRK818xEemSiotKBJqu5w" type="Class" name="Main">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_5qS78F8yEemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_5qUKEF8yEemSiotKBJqu5w" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_5qUKEV8yEemSiotKBJqu5w" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_5qUKEl8yEemSiotKBJqu5w" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_5qUKE18yEemSiotKBJqu5w" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_5qUxIF8yEemSiotKBJqu5w" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_5qUxIV8yEemSiotKBJqu5w" type="PackageContents" canonical="false"/>
+        <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D$uml.Package"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5qS78V8yEemSiotKBJqu5w" x="3804" width="22326"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_FUTsAF8zEemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_FUU6IF8zEemSiotKBJqu5w" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_FUU6IV8zEemSiotKBJqu5w" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_FUVhMF8zEemSiotKBJqu5w" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_FUVhMV8zEemSiotKBJqu5w" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_FUVhMl8zEemSiotKBJqu5w" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_FUWIQF8zEemSiotKBJqu5w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_FUZyoF8zEemSiotKBJqu5w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_FUZyoV8zEemSiotKBJqu5w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Payroll%5Bjcu%5Ename=Payroll.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FUTsAV8zEemSiotKBJqu5w" x="21239" y="6340"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_UDwjAF8zEemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_UDxKEF8zEemSiotKBJqu5w" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_UDxKEV8zEemSiotKBJqu5w" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_UDxKEl8zEemSiotKBJqu5w" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_UDxKE18zEemSiotKBJqu5w" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_UDxKFF8zEemSiotKBJqu5w" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_UDxKFV8zEemSiotKBJqu5w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_UDyYMF8zEemSiotKBJqu5w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_UDyYMV8zEemSiotKBJqu5w" type="ANNOTATED_OPERATION_COMPARTMENT">
+          <children xmi:type="notation:BasicCompartment" xmi:id="_obj3sF81EemSiotKBJqu5w" type="OPERATION_ITEM" collapsed="true">
+            <element xmi:type="uml:Operation" href="mmi:///#jmethod%5Ename=LoadData%5Esign=()V%5Bjsrctype%5Ename=Employee%5Bjcu%5Ename=Employee.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D%5D$uml.Operation"/>
+          </children>
+        </children>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Employee%5Bjcu%5Ename=Employee.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UDwjAV8zEemSiotKBJqu5w" x="10144" y="15533"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_4pE14F86EemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4pFc8F86EemSiotKBJqu5w" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4pFc8V86EemSiotKBJqu5w" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4pFc8l86EemSiotKBJqu5w" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4pGEAF86EemSiotKBJqu5w" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4pGEAV86EemSiotKBJqu5w" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4pGEAl86EemSiotKBJqu5w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4pGrEF86EemSiotKBJqu5w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4pGrEV86EemSiotKBJqu5w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Executive%5Bjcu%5Ename=Executive.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4pE14V86EemSiotKBJqu5w" x="13948" y="5072" width="4475"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_554hAF87EemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_555IEF87EemSiotKBJqu5w" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_555IEV87EemSiotKBJqu5w" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_555IEl87EemSiotKBJqu5w" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_555IE187EemSiotKBJqu5w" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_555IFF87EemSiotKBJqu5w" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_555vIF87EemSiotKBJqu5w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_556WMF87EemSiotKBJqu5w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_556WMV87EemSiotKBJqu5w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Exempt%5Bjcu%5Ename=Exempt.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_554hAV87EemSiotKBJqu5w" x="7608" y="6340"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_gToDEF88EemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_gTpRMF88EemSiotKBJqu5w" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_gTpRMV88EemSiotKBJqu5w" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_gTpRMl88EemSiotKBJqu5w" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_gTpRM188EemSiotKBJqu5w" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_gTpRNF88EemSiotKBJqu5w" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_gTpRNV88EemSiotKBJqu5w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_gTp4QF88EemSiotKBJqu5w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_gTp4QV88EemSiotKBJqu5w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Non_exempt_FT%5Bjcu%5Ename=Non_exempt_FT.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gToDEV88EemSiotKBJqu5w" y="6023"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_AnvYwF8_EemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_AnvYwl8_EemSiotKBJqu5w" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_AnvYw18_EemSiotKBJqu5w" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Anv_0F8_EemSiotKBJqu5w" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Anv_0V8_EemSiotKBJqu5w" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Anv_0l8_EemSiotKBJqu5w" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Anv_018_EemSiotKBJqu5w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Anwm4F8_EemSiotKBJqu5w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Anwm4V8_EemSiotKBJqu5w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Paycheck%5Bjcu%5Ename=Paycheck.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AnvYwV8_EemSiotKBJqu5w" x="20602" y="18979"/>
+      </children>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_FU1QcF8zEemSiotKBJqu5w" type="OwnedElement" source="_5qS78F8yEemSiotKBJqu5w" target="_FUTsAF8zEemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FU1QcV8zEemSiotKBJqu5w" points="[87, 135, -1353, -5481]$[87, 946, -1353, -4670]$[1492, 946, 52, -4670]$[1492, 5616, 52, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6rYMMF83EemSiotKBJqu5w" id="(0.8333601903330198,0.9557041370664437)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6rYzQF83EemSiotKBJqu5w" id="(0.5,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_UD33wF8zEemSiotKBJqu5w" type="OwnedElement" source="_5qS78F8yEemSiotKBJqu5w" target="_UDwjAF8zEemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UD33wV8zEemSiotKBJqu5w" points="[1349, 135, 5508, -13246]$[1349, 11970, 5508, -1411]$[-4103, 11970, 56, -1411]$[-4103, 13381, 56, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6raocF83EemSiotKBJqu5w" id="(0.6666935236663531,0.9557041370664437)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6raocV83EemSiotKBJqu5w" id="(0.8000682297349518,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4pPN8F86EemSiotKBJqu5w" type="OwnedElement" source="_5qS78F8yEemSiotKBJqu5w" target="_4pE14F86EemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4pPN8V86EemSiotKBJqu5w" points="[1777, 135, 559, -2785]$[1777, 2920, 559, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FSQSAF89EemSiotKBJqu5w" id="(0.5000268569996864,0.9557041370664437)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FSQSAV89EemSiotKBJqu5w" id="(0.5,1.2123363126805228E-16)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4pP1AF86EemSiotKBJqu5w" source="_4pE14F86EemSiotKBJqu5w" target="_UDwjAF8zEemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4pP1Al86EemSiotKBJqu5w" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4pP1BF86EemSiotKBJqu5w" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4pP1BV86EemSiotKBJqu5w" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4pP1A186EemSiotKBJqu5w" y="-247"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Executive%5Bjcu%5Ename=Executive.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Employee%5Bjcu%5Ename=Employee.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4pP1AV86EemSiotKBJqu5w" points="[52, 139, 4465, -2963]$[52, 985, 4465, -2117]$[-4350, 985, 63, -2117]$[-4350, 3102, 63, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FSSuQF89EemSiotKBJqu5w" id="(0.5,0.9812050119968009)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FSSuQV89EemSiotKBJqu5w" id="(0.6000682652527732,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_56CSAF87EemSiotKBJqu5w" type="OwnedElement" source="_5qS78F8yEemSiotKBJqu5w" target="_554hAF87EemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_56CSAV87EemSiotKBJqu5w" points="[-1109, 135, 97, -4053]$[-1109, 4188, 97, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FSQ5EF89EemSiotKBJqu5w" id="(0.3333601903330198,0.9557041370664437)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FSRgIF89EemSiotKBJqu5w" id="(0.5,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_56C5EF87EemSiotKBJqu5w" source="_554hAF87EemSiotKBJqu5w" target="_UDwjAF8zEemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_56C5El87EemSiotKBJqu5w" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_56C5FF87EemSiotKBJqu5w" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_56DgIF87EemSiotKBJqu5w" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_56C5E187EemSiotKBJqu5w" y="-247"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Exempt%5Bjcu%5Ename=Exempt.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Employee%5Bjcu%5Ename=Employee.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_56C5EV87EemSiotKBJqu5w" points="[52, 138, -1970, -4124]$[52, 2145, -1970, -2117]$[2064, 2145, 42, -2117]$[2064, 4262, 42, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FSTVUF89EemSiotKBJqu5w" id="(0.5,0.9727799227799228)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FST8YF89EemSiotKBJqu5w" id="(0.40006812318148754,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gTybIF88EemSiotKBJqu5w" type="OwnedElement" source="_5qS78F8yEemSiotKBJqu5w" target="_gToDEF88EemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gTybIV88EemSiotKBJqu5w" points="[-3739, -956, 1372, -4827]$[-5004, -956, 107, -4827]$[-5004, 3871, 107, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FSRgIV89EemSiotKBJqu5w" id="(0.16669352366635312,0.9557041370664437)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FSSHMF89EemSiotKBJqu5w" id="(0.5,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gTzCMF88EemSiotKBJqu5w" source="_gToDEF88EemSiotKBJqu5w" target="_UDwjAF8zEemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_gTzCMl88EemSiotKBJqu5w" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_gTzCNF88EemSiotKBJqu5w" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_gTzCNV88EemSiotKBJqu5w" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gTzCM188EemSiotKBJqu5w" y="-247"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Non_exempt_FT%5Bjcu%5Ename=Non_exempt_FT.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Employee%5Bjcu%5Ename=Employee.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gTzCMV88EemSiotKBJqu5w" points="[52, 138, -8618, -3807]$[52, 2533, -8618, -1412]$[8691, 2533, 21, -1412]$[8691, 3945, 21, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FSUjcF89EemSiotKBJqu5w" id="(0.5,0.9757481940144479)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FSUjcV89EemSiotKBJqu5w" id="(0.20006815869930897,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_An3UkF8_EemSiotKBJqu5w" type="OwnedElement" source="_5qS78F8yEemSiotKBJqu5w" target="_AnvYwF8_EemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_An3UkV8_EemSiotKBJqu5w" points="[11145, 70, 3748, -18910]$[11685, 70, 4288, -18910]$[11685, 9490, 4288, -9490]$[6957, 9490, -440, -9490]$[6957, 17853, -440, -1127]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_FgOKoF8_EemSiotKBJqu5w" source="_UDwjAF8zEemSiotKBJqu5w" target="_AnvYwF8_EemSiotKBJqu5w" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_FgOKol8_EemSiotKBJqu5w" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_FgOKpF8_EemSiotKBJqu5w" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_FgOKo18_EemSiotKBJqu5w" y="529"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_FgOxsF8_EemSiotKBJqu5w" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_FgOxsl8_EemSiotKBJqu5w" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_FgOxsV8_EemSiotKBJqu5w" y="-530"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_FgOxs18_EemSiotKBJqu5w" type="associationTypeLabel">
+          <children xmi:id="_FgOxtV8_EemSiotKBJqu5w" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_FgOxtF8_EemSiotKBJqu5w" y="-247"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=paycheck%5Bjsrctype%5Ename=Employee%5Bjcu%5Ename=Employee.java%5Bjpack%5Ename=UniversityPayroll%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=UniversityPayroll%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FgOKoV8_EemSiotKBJqu5w" points="[-76, -116, 289, 442]$[-363, -556, 2, 2]"/>
+      </edges>
+    </contents>
+  </eAnnotations>
+  <eAnnotations xmi:id="_FsRK9F8xEemSiotKBJqu5w" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_FsRK9V8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBSpecificInstanceType1" value="1"/>
+    <details xmi:id="_FsRK9l8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBLifeLine" value="1"/>
+    <details xmi:id="_FsRK918xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBFunction" value="1"/>
+    <details xmi:id="_FsRK-F8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBRealization" value="1"/>
+    <details xmi:id="_FsRK-V8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBInstance" value="1"/>
+    <details xmi:id="_FsRK-l8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBStereotypedDeployment1" value="1"/>
+    <details xmi:id="_FsRK-18xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBUseCaseDiagram" value="1"/>
+    <details xmi:id="_FsRK_F8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBSequenceDiagram" value="1"/>
+    <details xmi:id="_FsRK_V8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBAction" value="1"/>
+    <details xmi:id="_FsRK_l8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBClassDiagram" value="1"/>
+    <details xmi:id="_FsRK_18xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBCollaboration" value="1"/>
+    <details xmi:id="_FsRLAF8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBDeployment1" value="1"/>
+    <details xmi:id="_FsRLAV8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBDeploymentDiagram" value="1"/>
+    <details xmi:id="_FsRLAl8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBRelationship1" value="1"/>
+    <details xmi:id="_FsRLA18xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBFreeFormDiagram" value="1"/>
+    <details xmi:id="_FsRLBF8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBComponentDiagram" value="1"/>
+    <details xmi:id="_FsRLBV8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBClass" value="1"/>
+    <details xmi:id="_FsRLBl8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBObjectDiagram" value="1"/>
+    <details xmi:id="_FsRLB18xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBArtifact" value="1"/>
+    <details xmi:id="_FsRLCF8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBStateChartDiagram" value="1"/>
+    <details xmi:id="_FsRLCV8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBComment1" value="1"/>
+    <details xmi:id="_FsRLCl8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBActivity1" value="1"/>
+    <details xmi:id="_FsRLC18xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBDependancy" value="1"/>
+    <details xmi:id="_FsRLDF8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBElementImport1" value="1"/>
+    <details xmi:id="_FsRLDV8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBPackage" value="1"/>
+    <details xmi:id="_FsRLDl8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBStateMachine1" value="1"/>
+    <details xmi:id="_FsRLD18xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBCommunication" value="1"/>
+    <details xmi:id="_FsRLEF8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBStereotypedComponent" value="1"/>
+    <details xmi:id="_FsRLEV8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBInterface" value="1"/>
+    <details xmi:id="_FsRLEl8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBActivityDiagram" value="1"/>
+    <details xmi:id="_FsRLE18xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBCommunicationDiagram" value="1"/>
+    <details xmi:id="_FsRLFF8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBComponent" value="1"/>
+    <details xmi:id="_FsRLFV8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBUseCase1" value="1"/>
+    <details xmi:id="_FsRLFl8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBSequence1" value="1"/>
+    <details xmi:id="_FsRLF18xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBCollaborationUse" value="1"/>
+    <details xmi:id="_FsRLGF8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.umlBBStereotypedArtifact" value="1"/>
+    <details xmi:id="_FsRLGV8xEemSiotKBJqu5w" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <packageImport xmi:id="_FsRLGl8xEemSiotKBJqu5w">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_AHqA8F8zEemSiotKBJqu5w" name="Class1"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_U7xaAF88EemSiotKBJqu5w" name="Non-exempt-FT"/>
+  <profileApplication xmi:id="_FsRyAF8xEemSiotKBJqu5w">
+    <eAnnotations xmi:id="_FsRyAV8xEemSiotKBJqu5w" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_FsRyAl8xEemSiotKBJqu5w">
+    <eAnnotations xmi:id="_FsRyA18xEemSiotKBJqu5w" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_FsRyBF8xEemSiotKBJqu5w">
+    <eAnnotations xmi:id="_FsRyBV8xEemSiotKBJqu5w" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_4OVBUD0TEeKt-L0gyEptgQ?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Package>

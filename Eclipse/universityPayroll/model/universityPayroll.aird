@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis uid="_2R-aoF9FEemRu8dmziSHYA" selectedViews="_2qQ-0F9FEemRu8dmziSHYA" version="14.1.0.201810161215">
+    <semanticResources>universityPayroll.ecore</semanticResources>
+    <semanticResources>universityPayroll.genmodel</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_2qQ-0F9FEemRu8dmziSHYA">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_20nNoF9FEemRu8dmziSHYA" name="universityPayroll" repPath="#_2wW_wF9FEemRu8dmziSHYA">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']"/>
+        <target xmi:type="ecore:EPackage" href="universityPayroll.ecore#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_2wW_wF9FEemRu8dmziSHYA" name="universityPayroll">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_20hHAF9FEemRu8dmziSHYA" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_20huEF9FEemRu8dmziSHYA"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_21U_UF9FEemRu8dmziSHYA" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_21U_UV9FEemRu8dmziSHYA" type="Sirius" element="_2wW_wF9FEemRu8dmziSHYA" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_6oIikF9FEemRu8dmziSHYA" type="2003" element="_6nlwAF9FEemRu8dmziSHYA">
+          <children xmi:type="notation:Node" xmi:id="_6oMM8F9FEemRu8dmziSHYA" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_6oOpMF9FEemRu8dmziSHYA" type="7004">
+            <children xmi:type="notation:Node" xmi:id="_ClsPAF9GEemRu8dmziSHYA" type="3010" element="_CldlgF9GEemRu8dmziSHYA">
+              <styles xmi:type="notation:FontStyle" xmi:id="_ClsPAV9GEemRu8dmziSHYA" fontName=".AppleSystemUIFont" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_ClsPAl9GEemRu8dmziSHYA"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_E7YUAF9GEemRu8dmziSHYA" type="3010" element="_E7S0cF9GEemRu8dmziSHYA">
+              <styles xmi:type="notation:FontStyle" xmi:id="_E7YUAV9GEemRu8dmziSHYA" fontName=".AppleSystemUIFont" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_E7YUAl9GEemRu8dmziSHYA"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_6oOpMV9FEemRu8dmziSHYA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_6oOpMl9FEemRu8dmziSHYA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_6oIikV9FEemRu8dmziSHYA" fontName=".AppleSystemUIFont" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6oIikl9FEemRu8dmziSHYA" x="369" y="243" width="120" height="100"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_LQWSAF9GEemRu8dmziSHYA" type="2002" element="_LQNvIF9GEemRu8dmziSHYA">
+          <children xmi:type="notation:Node" xmi:id="_LQW5EF9GEemRu8dmziSHYA" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_LQW5EV9GEemRu8dmziSHYA" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_LQW5El9GEemRu8dmziSHYA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_LQW5E19GEemRu8dmziSHYA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_LQWSAV9GEemRu8dmziSHYA" fontName=".AppleSystemUIFont" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LQWSAl9GEemRu8dmziSHYA" x="396" y="9" width="240" height="160"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_iPhjgF9GEemRu8dmziSHYA" type="2003" element="_iPa10F9GEemRu8dmziSHYA">
+          <children xmi:type="notation:Node" xmi:id="_iPiKkF9GEemRu8dmziSHYA" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_iPiKkV9GEemRu8dmziSHYA" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_iPiKkl9GEemRu8dmziSHYA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_iPiKk19GEemRu8dmziSHYA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_iPhjgV9GEemRu8dmziSHYA" fontName=".AppleSystemUIFont" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iPhjgl9GEemRu8dmziSHYA" x="594" y="234" width="120" height="100"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_21U_Ul9FEemRu8dmziSHYA"/>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_6nlwAF9FEemRu8dmziSHYA" name="Payroll" tooltipText="" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="universityPayroll.ecore#//Payroll"/>
+      <semanticElements xmi:type="ecore:EClass" href="universityPayroll.ecore#//Payroll"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_ByX7sV9GEemRu8dmziSHYA" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregroundColor="255,252,216">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_CldlgF9GEemRu8dmziSHYA" name="LoadFromDatabase()" tooltipText="LoadFromDatabase()">
+        <target xmi:type="ecore:EOperation" href="universityPayroll.ecore#//Payroll/LoadFromDatabase"/>
+        <semanticElements xmi:type="ecore:EOperation" href="universityPayroll.ecore#//Payroll/LoadFromDatabase"/>
+        <ownedStyle xmi:type="diagram:BundledImage" uid="_CljsIF9GEemRu8dmziSHYA" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='Operation']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='Operation']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_E7S0cF9GEemRu8dmziSHYA" name="GeneratePaychecks()" tooltipText="GeneratePaychecks()">
+        <target xmi:type="ecore:EOperation" href="universityPayroll.ecore#//Payroll/GeneratePaychecks"/>
+        <semanticElements xmi:type="ecore:EOperation" href="universityPayroll.ecore#//Payroll/GeneratePaychecks"/>
+        <ownedStyle xmi:type="diagram:BundledImage" uid="_E7S0cV9GEemRu8dmziSHYA" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='Operation']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='Operation']"/>
+      </ownedElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_LQNvIF9GEemRu8dmziSHYA" name="newPackage1" width="24" height="16">
+      <target xmi:type="ecore:EPackage" href="universityPayroll.ecore#//newPackage1"/>
+      <semanticElements xmi:type="ecore:EPackage" href="universityPayroll.ecore#//newPackage1"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_LQOWMF9GEemRu8dmziSHYA" labelAlignment="LEFT" borderSize="1" borderSizeComputationExpression="1" borderColor="125,125,125" backgroundStyle="Liquid" foregroundColor="217,210,220">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@additionalLayers[name='Package']/@containerMappings[name='Dropped%20Package']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@additionalLayers[name='Package']/@containerMappings[name='Dropped%20Package']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_iPa10F9GEemRu8dmziSHYA" name="Employee" tooltipText="" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="universityPayroll.ecore#//Employee"/>
+      <semanticElements xmi:type="ecore:EClass" href="universityPayroll.ecore#//Employee"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_iPbc4F9GEemRu8dmziSHYA" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregroundColor="255,252,216">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_2xSM0F9FEemRu8dmziSHYA"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer"/>
+    <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@additionalLayers[name='Package']"/>
+    <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@additionalLayers[name='Validation']"/>
+    <target xmi:type="ecore:EPackage" href="universityPayroll.ecore#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
